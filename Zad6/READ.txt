@@ -1,0 +1,2 @@
+login: osk	
+password: osk

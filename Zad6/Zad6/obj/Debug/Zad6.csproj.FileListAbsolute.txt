@@ -1,0 +1,11 @@
+C:\Users\Domowy\source\repos\Zad6\Zad6\obj\Debug\Zad6.csproj.AssemblyReference.cache
+C:\Users\Domowy\source\repos\Zad6\Zad6\obj\Debug\Zad6.Form1.resources
+C:\Users\Domowy\source\repos\Zad6\Zad6\obj\Debug\Zad6.Properties.Resources.resources
+C:\Users\Domowy\source\repos\Zad6\Zad6\obj\Debug\Zad6.csproj.GenerateResource.cache
+C:\Users\Domowy\source\repos\Zad6\Zad6\obj\Debug\Zad6.csproj.CoreCompileInputs.cache
+C:\Users\Domowy\source\repos\Zad6\Zad6\obj\Debug\Zad6.Form2.resources
+C:\Users\Domowy\source\repos\Zad6\Zad6\bin\Debug\Zad6.exe.config
+C:\Users\Domowy\source\repos\Zad6\Zad6\bin\Debug\Zad6.exe
+C:\Users\Domowy\source\repos\Zad6\Zad6\bin\Debug\Zad6.pdb
+C:\Users\Domowy\source\repos\Zad6\Zad6\obj\Debug\Zad6.exe
+C:\Users\Domowy\source\repos\Zad6\Zad6\obj\Debug\Zad6.pdb
